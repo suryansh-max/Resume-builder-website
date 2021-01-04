@@ -56,7 +56,7 @@ function MenuItems({
                         className={classes.externalLink}
                         target="_blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/blopa/Resume-Builder"
+                        href="https://github.com/suryansh-max/Resume-builder-website"
                     >
                         <Typography
                             className={classes.menuLink}

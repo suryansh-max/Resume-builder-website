@@ -32,6 +32,7 @@ const LanguageSelector = ({ currentLocale, onLanguageChange }) => {
         handleOnLanguageChange(e.target.value, language);
     }, [handleOnLanguageChange, language]);
 
+    return <div />
     return (
         <Select
             value={language}

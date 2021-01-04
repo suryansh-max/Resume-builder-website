@@ -32,7 +32,7 @@ const useStyles = makeStyles({
 });
 
 function Topbar({
-    showLanguageSelector = true,
+    showLanguageSelector = false,
     onLanguageChange,
 }) {
     const classes = useStyles();
